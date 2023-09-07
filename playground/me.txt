@@ -1,5 +1,0 @@
-{{#user}}
-Name: B.Venkateshh
-Skills: HTML, CSS, JS, NodeJS , ReactJS, MongoDB, Express ,SQL, REST API's
-Email: venkateshh2703@gmail.com
-{{/user}}
